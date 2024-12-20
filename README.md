@@ -1,0 +1,2 @@
+# CapestoneProject---Samrt-Communication-Artisian-Web-Site-
+A platform dedicated to empowering rural artisans in India by showcasing their traditional crafts, textiles, and handicrafts. Built with React.js for the frontend, Node.js for the backend, and MongoDB as the database, this project bridges the gap between local artisans and a global audience, promoting cultural heritage and sustainable livelihoods.
